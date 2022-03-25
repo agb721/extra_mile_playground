@@ -1,4 +1,4 @@
-# Extra Mile - a MIT Reality Hack Project
+# Extra Mile - an MIT Reality Hack Project
 
 ## Team
 Team Name: *Extra Mile*
