@@ -45,5 +45,6 @@ POssible use cases based on our proof of concept...
   <img src="images/Screenshot 2022-03-25 at 16.40.34.png" width="600" />
 </p>
 Edit here: https://docs.google.com/presentation/d/1g8JaWoVGWz28a8YdJW9EGLiUD4OwYZhRRUSxshJ9tng/edit?usp=sharing
+
 - Scientific sources
 - Arctop dummy data
