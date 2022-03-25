@@ -27,8 +27,8 @@ The mobile application let's users review their progress and uncover the relatio
 *insert drawings and Figma sketch*
 
 <p float="left">
-  <img src="images/shading_zone_drawing.png" width="100" />
-  <img src="images/time_to_flow_drawing.png" width="100" /> 
+  <img src="images/shading_zone_drawing.png" width="200" />
+  <img src="images/time_to_flow_drawing.png" width="200" /> 
 </p>
 
 
@@ -37,6 +37,5 @@ The mobile application let's users review their progress and uncover the relatio
 ![music x zone](images/music_graph_drawing.png)
 
 # Appendix
-Scientific sources
-
-Arctop dummy data
+- Scientific sources
+- Arctop dummy data
