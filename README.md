@@ -28,6 +28,8 @@ The mobile application let's users review their progress and uncover the relatio
 
 ## Future Applications & Limitations
 
+![music x zone](images/music_graph_drawing.png)
+
 # Appendix
 Scientific sources
 
