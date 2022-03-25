@@ -2,6 +2,7 @@
 
 ## Team
 Team Name: *Extra Mile*
+
 Members: Michael Chen, Andreas Greiler-Basaldua, Tim Miller, Paris Nikitidis
 
 ## Problem We're Solving
