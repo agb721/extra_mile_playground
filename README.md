@@ -33,9 +33,11 @@ The mobile application let's users review their progress and uncover the relatio
 
 
 ## Future Applications & Limitations
-Our proof of concept...
+POssible use cases based on our proof of concept...
 
-![music x zone](images/music_graph_drawing.png)
+<p float="left">
+  <img src="images/music_graph_drawing.png" width="350" />
+</p>
 
 # Appendix
 - Scientific sources
