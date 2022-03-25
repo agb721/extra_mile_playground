@@ -27,7 +27,7 @@ The mobile application let's users review their progress and uncover the relatio
 *insert drawings and Figma sketch*
 
 <p float="left">
-  <img src="images/shading_zone_drawing.pn" width="50" />
+  <img src="images/shading_zone_drawing.png" width="50" />
   <img src="images/time_to_flow_drawing.png" width="50" /> 
 </p>
 
