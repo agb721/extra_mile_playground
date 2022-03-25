@@ -25,9 +25,16 @@ Team members: Michael Chen, Andreas Greiler-Basaldua, Tim Miller, Paris Nikitidi
 The mobile application let's users review their progress and uncover the relationship between their running stats (distance run, pace, consistency) and biometric information (heart rate, enjoyment, flow state)
 
 *insert drawings and Figma sketch*
+
+<p float="left">
+  <img src="images/shading_zone_drawing.pn" width="20" />
+  <img src="images/time_to_flow_drawing.png" width="100" /> 
+</p>
+
+
 Flow in run           |  Time in flow
 :-------------------------:|:-------------------------:
-![](images/shading_zone_drawing.png)  |  ![](images/time_to_flow.png)
+![](images/shading_zone_drawing.png)  |  ![](images/time_to_flow_drawing.png)
 
 ## Future Applications & Limitations
 
