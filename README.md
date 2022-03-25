@@ -6,9 +6,9 @@ Team name: *Extra Mile*
 Team members: Michael Chen, Andreas Greiler-Basaldua, Tim Miller, Paris Nikitidis
 
 ## Problem We're Solving
-- X% of people give up on their workout plans within Y time, primarily due to a lack of sustained enjoyment during physical exercise (check/find source)
+- 65% of people give up on their workout plans within 3 to 6 months, in part due to a lack of sustained enjoyment during physical exercise (check/find source)
 - It can be difficult to identify the right balance between challenge and enjoyment, especially for less experienced runners and runners with special conditions (disabilities, injuries etc.)
-- …
+- 
 
 *Extra Mile* leverages Arctop's neural interface technology and AR immersion to make running more fun and effective across 3 levers:
 - **Gamification:** …
@@ -47,4 +47,6 @@ POssible use cases based on our proof of concept...
 Edit here: https://docs.google.com/presentation/d/1g8JaWoVGWz28a8YdJW9EGLiUD4OwYZhRRUSxshJ9tng/edit?usp=sharing
 
 - Scientific sources
+Statistic on the amount of people who drop their exercise routine: https://www.nytimes.com/guides/smarterliving/how-to-start-exercising
+On the relationship between pleasure during exercise and and contunued exercise: https://academic.oup.com/abm/article/49/5/715/4562772?login=false
 - Arctop dummy data
