@@ -5,6 +5,10 @@ Team name: *Extra Mile*
 
 Team members: Michael Chen, Andreas Greiler-Basaldua, Tim Miller, Paris Nikitidis
 
+<p float="left">
+  <img src="images/Screenshot 2022-03-25 at 18.02.49.png" width="400" />
+</p>
+
 ## Problem We're Solving
 - 65% of people give up on their workout plans within 3 to 6 months, in part due to a lack of sustained enjoyment during physical exercise and the delayed gratification
 - It can be difficult to identify the right balance between challenge and enjoyment, especially for less experienced runners and runners with special conditions (disabilities, injuries etc.)
@@ -29,7 +33,6 @@ The mobile application let's users review their progress and uncover the relatio
   <img src="images/shading_zone_drawing.png" width="280" />
   <img src="images/time_to_flow_drawing.png" width="200" /> 
 </p>
-
 
 ## Future Applications & Limitations
 POssible use cases based on our proof of concept...
