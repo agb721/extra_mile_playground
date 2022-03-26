@@ -90,13 +90,18 @@ Average flow score for an activity conducted on each day. The view helps show ex
 ## Future Applications & Limitations
 
 ### Future Applications
-One possible expansion of our concept is an intergation with music, where the track is selected according to th most optimal BPM range at any point during the run.
+
+- Automatically generated, user specific workouts to optimize flow state over the course of exercise. This is all based on past data collected from the user.
+- 
+
+- One other possible expansion of our concept is an intergation with music, where the track is selected according to th most optimal BPM range at any point during the run.
 <p float="left">
   <img src="images/music_graph_drawing.png" width="350" />
 </p>
 
 ### Limitations
 
+- The most obvious
 
 ## Appendix
 Edit here: https://docs.google.com/presentation/d/1g8JaWoVGWz28a8YdJW9EGLiUD4OwYZhRRUSxshJ9tng/edit?usp=sharing
