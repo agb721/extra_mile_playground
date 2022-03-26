@@ -56,7 +56,7 @@ How to read the flow:
 - The AR device also projects running companion on the heads up display to help set the pace.
 - The headband starts collecting brain wave data. The raw data is sent to the Neuos app. It is cleaned and transformed and then sends Flow, Enjoyment, Focus, and Heart Rate data to our custom Android app.
 - The Android app then sends the data to a webserver so that it can be accessed by Unity.
-- Our Unity app pulls in the brainwave data and determines whether or not to adjust the running companion. If the Flow, Focus, and Enjoyment are low, the app may slow down the running companion. Or the app may increase music BPMs to motivate the user. If the Flow, Focus, and Enjoyment are high the app may incrase the pace to help the user get the most out of the workout.
+- Our Unity app pulls in the brainwave data and determines whether or not to adjust the running companion. If the Flow, Focus, and Enjoyment are low, the app may slow down the running companion. Or the app may increase music BPMs to motivate the user. If the Flow, Focus, and Enjoyment are high the app may increase the pace to help the user get the most out of the workout.
 
 <p float="left">
   <img src="images/setup.png" width="600" />
