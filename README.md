@@ -16,7 +16,7 @@ Team members: Michael Chen, Andreas Greiler-Basaldua, Tim Miller, Paris Nikitidi
 ## Proposed Solution
 
 *Extra Mile* leverages Arctop's neural interface technology and AR immersion (in this project we used Magic Leap) to make running more fun and effective across 3 levers:
-- **Running compation:** the the running compation (overlayed in AR) leverages the user's real-time movement and biometric information (heart rate, enjoyment index, flow state index) to provide just the right pace at any point in the run - maximizing the time the user spends in 'flow state'
+- **Running companion:** the the running companion (overlayed in AR) leverages the user's real-time movement and biometric information (heart rate, enjoyment index, flow state index) to provide just the right pace at any point in the run - maximizing the time the user spends in 'flow state'
 - **Gamification:** Real-time feedback (e.g. pacer avatar changes color during flow moments) provides instant gratification while exercising, and the mobile app helps the user set concrete goals.
 - **Self-coaching:** the mobile app lets the user track their progress and explore the relationship between athletic performance, enjoyment and physical health.
 
