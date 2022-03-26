@@ -51,10 +51,10 @@ Below are some screenshots of the sanple outputs this app would generate.
 ### Activity summary
 Information collected for a *specific* activity. These views help a user understand how flow states varied over the course of the workout and how that correlates with performance.
 
-<img width="199" alt="wireframe1" src="https://user-images.githubusercontent.com/102323253/160218368-8afeb71e-7fd6-46f8-b231-63cd10cba282.PNG">
-
-
-<img width="207" alt="wireframe2" src="https://user-images.githubusercontent.com/102323253/160218393-6f1f97cb-41ea-465c-8277-f39c2c7999b3.PNG">
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/102323253/160218368-8afeb71e-7fd6-46f8-b231-63cd10cba282.PNG" width="199" />
+  <img src="https://user-images.githubusercontent.com/102323253/160218393-6f1f97cb-41ea-465c-8277-f39c2c7999b3.PNG" width="199" />
+</p>
 
 ### Monthly summary
 Average flow score for an activity conducted on each day. The view helps show exercise conducted over a month and provides an overview of how flow states varied across all the activities.
