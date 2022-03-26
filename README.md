@@ -70,7 +70,7 @@ Below is a live demonstration of our product. The left screen shows a recording 
 ## Mobile App
 In the future we would develop a mobile application to let users review data collected during their activities. This app would focus on helping users discover the relationship between their running stats (distance run, pace, consistency) and biometric information (heart rate, enjoyment, flow state). Ideally this would integrate into fitness tracking apps like Strava.
 
-Below are some screenshots of the sanple outputs this app would generate.
+Below are some screenshots of the sanple outputs this app would generate. Find an interactive version version here: https://www.figma.com/proto/ylttAtTAPtxABzNa4U6pkf/ExtraMile_Wireframe?page-id=225%3A1866&node-id=225%3A1867&viewport=241%2C48%2C0.71&scaling=scale-down
 
 ### Activity summary
 Information collected for a *specific* activity. These views help a user understand how flow states varied over the course of the workout and how that correlates with performance.
@@ -92,7 +92,7 @@ Additionally, the below video is a voiceover of the data views and provides exam
 ## Future Applications & Limitations
 
 ### Future Applications
-
+One possible expansion of our concept is an intergation with music, where the track is selected according to th most optimal BPM range at any point during the run.
 <p float="left">
   <img src="images/music_graph_drawing.png" width="350" />
 </p>
