@@ -1,7 +1,7 @@
-# Extra Mile - an MIT Reality Hack Project
+# ExtraMile - an MIT Reality Hack Project
 
 ## Team
-Team name: *Extra Mile*
+Team name: *ExtraMile*
 
 Team members: Michael Chen, Andreas Greiler-Basaldua, Tim Miller, Paris Nikitidis
 
@@ -15,13 +15,13 @@ Team members: Michael Chen, Andreas Greiler-Basaldua, Tim Miller, Paris Nikitidi
 
 ## Proposed Solution
 
-*Extra Mile* leverages Arctop's neural interface technology and AR immersion (in this project we used Magic Leap) to make running more fun and effective across 3 levers:
+*ExtraMile* leverages Arctop's neural interface technology and AR immersion (in this project we used Magic Leap) to make running more fun and effective across 3 levers:
 - **Running companion:** the the running companion (overlayed in AR) leverages the user's real-time movement and biometric information (heart rate, enjoyment index, flow state index) to provide just the right pace at any point in the run - maximizing the time the user spends in 'flow state'
 - **Gamification:** Real-time feedback (e.g. pacer avatar changes color during flow moments) provides instant gratification while exercising, and the mobile app helps the user set concrete goals.
 - **Self-coaching:** the mobile app lets the user track their progress and explore the relationship between athletic performance, enjoyment and physical health.
 
 ## Target user
-*Caveat: the current size and weight of AR equipment isn't ideal for use during intense physical activity. This project serves as a proof of concept for technological opportunity space for nascent technologies.*
+*Caveat: the current size and weight of AR equipment isn't ideal for use during intense physical activity. This project serves as a proof of concept for the technological opportunity space of nascent technologies.*
 
 **Demographics**
 - 32 y/o
