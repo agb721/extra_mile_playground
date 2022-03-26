@@ -65,7 +65,8 @@ How to read the flow:
 ## Product Demonstration
 Below is a live demonstration of our product. The left screen shows a recording of our teammate running around with the device. The right screen shows what he sees through the AR device. The bottom screen shows the live brain wave data generated in through the brain wave headband.
 
-*insert video demonstration*
+Video link:
+https://www.youtube.com/watch?v=sCVaYOX9vgU
 
 ## Mobile App
 In the future we would develop a mobile application to let users review data collected during their activities. This app would focus on helping users discover the relationship between their running stats (distance run, pace, consistency) and biometric information (heart rate, enjoyment, flow state). Ideally this would integrate into fitness tracking apps like Strava.
