@@ -53,7 +53,7 @@ Information collected for a *specific* activity. These views help a user underst
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/102323253/160218368-8afeb71e-7fd6-46f8-b231-63cd10cba282.PNG" width="199" />
-  <img src="https://user-images.githubusercontent.com/102323253/160218393-6f1f97cb-41ea-465c-8277-f39c2c7999b3.PNG" width="210" />
+  <img src="https://user-images.githubusercontent.com/102323253/160218393-6f1f97cb-41ea-465c-8277-f39c2c7999b3.PNG" width="205" />
 </p>
 
 ### Monthly summary
