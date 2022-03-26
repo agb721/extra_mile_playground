@@ -16,8 +16,8 @@ Team members: Michael Chen, Andreas Greiler-Basaldua, Tim Miller, Paris Nikitidi
 ## Proposed Solution
 
 *Extra Mile* leverages Arctop's neural interface technology and AR immersion (in this project we used Magic Leap) to make running more fun and effective across 3 levers:
-- **Pacer:** the pacer (overlayed in AR) leverages the user's real-time movement and biometric information (heart rate, enjoyment index, flow state index) to provide just the right pace at any point in the run - maximizing the time the user spends in 'flow state'
-- **Gamification:** Real-time feedback (e.g. pacer avatar changes color during flow moments) provides instant gratification while exerciszing, and the mobile app helps the user set concrete goals.
+- **Running compation:** the the running compation (overlayed in AR) leverages the user's real-time movement and biometric information (heart rate, enjoyment index, flow state index) to provide just the right pace at any point in the run - maximizing the time the user spends in 'flow state'
+- **Gamification:** Real-time feedback (e.g. pacer avatar changes color during flow moments) provides instant gratification while exercising, and the mobile app helps the user set concrete goals.
 - **Self-coaching:** the mobile app lets the user track their progress and explore the relationship between athletic performance, enjoyment and physical health.
 
 ## Target user
@@ -28,7 +28,7 @@ The below diagram is the architecture for our project.
 
 How to read the flow:
 - User puts on AR headset and brain wave headband. They set target pace for running companion and begin to run.
-- AR device begins capturing pace, distance traveled, and time elapsed. This information is continously collected over the session and streamed directly to the heads up display.
+- AR device begins capturing pace, distance traveled, and time elapsed. This information is continuously collected over the session and streamed directly to the heads up display.
 - The AR device also projects running companion on the heads up display to help set the pace.
 - The headband starts collecting brain wave data. The raw data is sent to the Neuos app. It is cleaned and transformed and then sends Flow, Enjoyment, Focus, and Heart Rate data to our custom Android app.
 - The Android app then sends the data to a webserver so that it can be accessed by Unity.
@@ -65,23 +65,16 @@ Average flow score for an activity conducted on each day. The view helps show ex
 Additionally, the below video is a voiceover of the data views and provides examples of how to interpret the data.
 
 
-*we can probably just delete the below images....*
-
-<p float="left">
-  <img src="images/shading_zone_drawing.png" width="280" />
-  <img src="images/time_to_flow_drawing.png" width="200" /> 
-</p>
-
 ## Future Applications & Limitations
 
 ### Future Applications
 
-### Limitations
-
-
 <p float="left">
   <img src="images/music_graph_drawing.png" width="350" />
 </p>
+
+### Limitations
+
 
 ## Appendix
 Edit here: https://docs.google.com/presentation/d/1g8JaWoVGWz28a8YdJW9EGLiUD4OwYZhRRUSxshJ9tng/edit?usp=sharing
