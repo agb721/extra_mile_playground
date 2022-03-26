@@ -65,13 +65,12 @@ How to read the flow:
 ## Product Demonstration
 Below is a live demonstration of our product. The left screen shows a recording of our teammate running around with the device. The right screen shows what he sees through the AR device. The bottom screen shows the live brain wave data generated in through the brain wave headband.
 
-Video link:
-https://www.youtube.com/watch?v=sCVaYOX9vgU
+Please click [HERE](https://www.youtube.com/watch?v=sCVaYOX9vgU) for video link. 
 
 ## Mobile App
 In the future we would develop a mobile application to let users review data collected during their activities. This app would focus on helping users discover the relationship between their running stats (distance run, pace, consistency) and biometric information (heart rate, enjoyment, flow state). Ideally this would integrate into fitness tracking apps like Strava.
 
-Below are some screenshots of the sanple outputs this app would generate. Find an interactive version version here: https://www.figma.com/proto/ylttAtTAPtxABzNa4U6pkf/ExtraMile_Wireframe?page-id=225%3A1866&node-id=225%3A1867&viewport=241%2C48%2C0.71&scaling=scale-down
+Below are some screenshots of the sanple outputs this app would generate. Find an interactive version version [HERE](https://www.figma.com/proto/ylttAtTAPtxABzNa4U6pkf/ExtraMile_Wireframe?page-id=225%3A1866&node-id=225%3A1867&viewport=241%2C48%2C0.71&scaling=scale-down)
 
 ### Activity summary
 Information collected for a *specific* activity. These views help a user understand how flow states varied over the course of the workout and how that correlates with performance.
@@ -92,8 +91,6 @@ Average flow score for an activity conducted on each day. The view helps show ex
 ### Future Applications
 
 - Automatically generated, user specific workouts to optimize flow state over the course of exercise. This is all based on past data collected from the user.
-- 
-
 - One other possible expansion of our concept is an intergation with music, where the track is selected according to th most optimal BPM range at any point during the run.
 <p float="left">
   <img src="images/music_graph_drawing.png" width="350" />
@@ -101,12 +98,14 @@ Average flow score for an activity conducted on each day. The view helps show ex
 
 ### Limitations
 
-- The most obvious
+- The most obvious limitation is the hardware. Right now most devices are not optimized for wearing while running outside. But hardware is rapidly shrinking and it is only a matter of time until devices are optimized for work outs. 
+- There is no direct link between the Neuos App and Unity. We have built a workaround via Firebase, but that is just a temporary solution. As real-time streaming capabilities are build we have no doubt there will be a direct link developed.
 
 ## Appendix
-Edit here: https://docs.google.com/presentation/d/1g8JaWoVGWz28a8YdJW9EGLiUD4OwYZhRRUSxshJ9tng/edit?usp=sharing
 
-- Scientific sources
-NYT, Statistic on the amount of people who drop their exercise routine: https://www.nytimes.com/guides/smarterliving/how-to-start-exercising
-Rhodes et al., On the relationship between pleasure during exercise and and contunued exercise: https://academic.oup.com/abm/article/49/5/715/4562772?login=false
-- Arctop dummy data
+### Hackathon presentation 
+Please click [HERE](https://docs.google.com/presentation/d/1g8JaWoVGWz28a8YdJW9EGLiUD4OwYZhRRUSxshJ9tng/edit?usp=sharing) for the presentation that we shared during the hackathon judging round.
+
+### Sources
+- NYT, Statistic on the amount of people who drop their exercise routine: https://www.nytimes.com/guides/smarterliving/how-to-start-exercising
+- Rhodes et al., On the relationship between pleasure during exercise and and contunued exercise: https://academic.oup.com/abm/article/49/5/715/4562772?login=false
