@@ -86,9 +86,6 @@ Average flow score for an activity conducted on each day. The view helps show ex
 <img width="200" alt="wireframe3" src="https://user-images.githubusercontent.com/102323253/160218444-dd5cc46a-f126-44e7-a6de-3db4dfda8d6d.PNG">
 
 
-Additionally, the below video is a voiceover of the data views and provides examples of how to interpret the data.
-
-
 ## Future Applications & Limitations
 
 ### Future Applications
