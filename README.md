@@ -23,6 +23,30 @@ Team members: Michael Chen, Andreas Greiler-Basaldua, Tim Miller, Paris Nikitidi
 ## Target user
 *Caveat: the current size and weight of AR equipment isn't ideal for use during intense physical activity. This project serves as a proof of concept for technological opportunity space for nascent technologies.*
 
+**Demographics**
+- 32 y/o
+- male/female
+- lives in SF
+- married with kid
+- light cardio 2-3x a week
+
+**Watering holes**
+- frequent dinners and work events
+- evening and weekend activities with tight-knit local friend group
+- volunteers for affordable housing initiative in SF-monthly school parent meet ups
+- hobbies: yoga, drawing
+
+**Psychographics**
+- hard working but seeks intrinsic joy in most activities
+- long-term desire 
+- busy with work, kids and volunteer committments: aims to be effective with their time
+- cares about own mental and physical health, for themselves as well as family and friends
+
+**Priorities**
+- mental and physical health, for themselves as well as family and friends
+- cares about financial stability, continuous self-improvement and a balanced lifestyle
+
+
 ## Technical Setup
 The below diagram is the architecture for our project.
 
