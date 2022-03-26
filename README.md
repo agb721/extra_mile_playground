@@ -16,7 +16,7 @@ Team members: Michael Chen, Andreas Greiler-Basaldua, Tim Miller, Paris Nikitidi
 ## Proposed Solution
 
 *Extra Mile* leverages Arctop's neural interface technology and AR immersion (in this project we used Magic Leap) to make running more fun and effective across 3 levers:
-- **Running compation:** the the running compation (overlayed in AR) leverages the user's real-time movement and biometric information (heart rate, enjoyment index, flow state index) to provide just the right pace at any point in the run - maximizing the time the user spends in 'flow state'
+- **Running companion:** the the running companion (overlayed in AR) leverages the user's real-time movement and biometric information (heart rate, enjoyment index, flow state index) to provide just the right pace at any point in the run - maximizing the time the user spends in 'flow state'
 - **Gamification:** Real-time feedback (e.g. pacer avatar changes color during flow moments) provides instant gratification while exercising, and the mobile app helps the user set concrete goals.
 - **Self-coaching:** the mobile app lets the user track their progress and explore the relationship between athletic performance, enjoyment and physical health.
 
@@ -51,10 +51,10 @@ Below are some screenshots of the sanple outputs this app would generate.
 ### Activity summary
 Information collected for a *specific* activity. These views help a user understand how flow states varied over the course of the workout and how that correlates with performance.
 
-<img width="199" alt="wireframe1" src="https://user-images.githubusercontent.com/102323253/160218368-8afeb71e-7fd6-46f8-b231-63cd10cba282.PNG">
-
-
-<img width="207" alt="wireframe2" src="https://user-images.githubusercontent.com/102323253/160218393-6f1f97cb-41ea-465c-8277-f39c2c7999b3.PNG">
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/102323253/160218368-8afeb71e-7fd6-46f8-b231-63cd10cba282.PNG" width="199" />
+  <img src="https://user-images.githubusercontent.com/102323253/160218393-6f1f97cb-41ea-465c-8277-f39c2c7999b3.PNG" width="205" />
+</p>
 
 ### Monthly summary
 Average flow score for an activity conducted on each day. The view helps show exercise conducted over a month and provides an overview of how flow states varied across all the activities.
