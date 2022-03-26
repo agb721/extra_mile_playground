@@ -59,7 +59,7 @@ How to read the flow:
 - Our Unity app pulls in the brainwave data and determines whether or not to adjust the running companion. If the Flow, Focus, and Enjoyment are low, the app may slow down the running companion. Or the app may increase music BPMs to motivate the user. If the Flow, Focus, and Enjoyment are high the app may incrase the pace to help the user get the most out of the workout.
 
 <p float="left">
-  <img src="images/Screenshot 2022-03-25 at 18.27.16.png" width="600" />
+  <img src="images/Setup chart" width="600" />
 </p>
 
 ## Product Demostration
