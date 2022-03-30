@@ -60,7 +60,7 @@ namespace MagicLeap
         void Update()
         {
             UpdateLED();
-            UpdateStatus();
+            //UpdateStatus();
         }
 
         /// <summary>

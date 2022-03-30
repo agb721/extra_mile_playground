@@ -3078,7 +3078,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mlXRDevice: {fileID: 999578152}
   speed: {fileID: 1629512583}
-  minSpeed: 8
+  minPerMile: 150
+  distanceToWait: 10
 --- !u!4 &895844341 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c48396d6061fd9f4589eb2c9a313d0dc, type: 3}

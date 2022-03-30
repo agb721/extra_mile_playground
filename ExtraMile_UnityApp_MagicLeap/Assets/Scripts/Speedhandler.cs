@@ -24,12 +24,19 @@ public class Speedhandler : MonoBehaviour
     [SerializeField] TMPro.TMP_Text bpmText;
     [HideInInspector] public float flow;
     [SerializeField] TMPro.TMP_Text flowText;
+    AudioSource musicAudio;
 
+    public void Start()
+    {
+        musicAudio = mlXRDevice.GetComponent<AudioSource>();
+        musicAudio.Stop();
+    }
     public void StartSpeedController()
     {
         prevPos = mlXRDevice.position;
         time = 0;
         timeText.text = "0.00";
+        musicAudio.Play();
         StartCoroutine(SpeedCoroutine());
         StartCoroutine(TimeCoroutine());
     }
@@ -46,6 +53,8 @@ public class Speedhandler : MonoBehaviour
                 CSVReader.testdata[time].ElementAt(3).Value.ToString() + "miles" ;
             bpmText.text = CSVReader.testdata[time].ElementAt(4).Value.ToString();
             flowText.text = CSVReader.testdata[time].ElementAt(5).Value.ToString();
+
+            musicAudio.pitch = (100-float.Parse(flowText.text))/100f;
         }
     }
     IEnumerator SpeedCoroutine()
